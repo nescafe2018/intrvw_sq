@@ -15,6 +15,9 @@ JDK Version: 1.8.0_131
 ## Section 3
 1. Final Output Snapshot 
 1. Junit Coverage Snapshot
+![Testing Rest Service Methods](https://github.com/nescafe2018/intrvw_sq/tree/master/images_screenshot/rest-service-test-case.jpg)
+
+![Testing Repository Methods](https://github.com/nescafe2018/intrvw_sq/tree/master/images_screenshot/repository-test-case.jpg)
 
 ## License
 * THE CODE DOES NOT HAVE ANY COPYRIGHT WHATSOEVER. 
