@@ -17,6 +17,16 @@ JDK Version: 1.8.0_131
 
 ![PostRequest 1](https://github.com/nescafe2018/intrvw_sq/blob/master/images_screenshot/postman-rest-postcall-1.jpg)
 
+![PostRequest 2](https://github.com/nescafe2018/intrvw_sq/blob/master/images_screenshot/postman-rest-postcall-2.jpg)
+
+![PostRequest 3](https://github.com/nescafe2018/intrvw_sq/blob/master/images_screenshot/postman-rest-postcall-3.jpg)
+
+![PostRequest 4](https://github.com/nescafe2018/intrvw_sq/blob/master/images_screenshot/postman-rest-postcall-4.jpg)
+
+![PostRequest 5](https://github.com/nescafe2018/intrvw_sq/blob/master/images_screenshot/postman-rest-postcall-5.jpg)
+
+![Breaking News](https://github.com/nescafe2018/intrvw_sq/blob/master/images_screenshot/postman-rest-breaking-news-call.jpg)
+
 1. Junit Coverage Snapshot
 
 ![Testing Rest Service Methods](https://github.com/nescafe2018/intrvw_sq/tree/master/images_screenshot/rest-service-test-case.jpg)
