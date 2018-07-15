@@ -15,6 +15,8 @@ JDK Version: 1.8.0_131
 ## Section 3
 1. Final Output Snapshot 
 
+### POST request to the news  
+
 ![PostRequest 1](https://github.com/nescafe2018/intrvw_sq/blob/master/images_screenshot/postman-rest-postcall-1.jpg)
 
 ![PostRequest 2](https://github.com/nescafe2018/intrvw_sq/blob/master/images_screenshot/postman-rest-postcall-2.jpg)
@@ -25,13 +27,15 @@ JDK Version: 1.8.0_131
 
 ![PostRequest 5](https://github.com/nescafe2018/intrvw_sq/blob/master/images_screenshot/postman-rest-postcall-5.jpg)
 
+### Breaking News  
+
 ![Breaking News](https://github.com/nescafe2018/intrvw_sq/blob/master/images_screenshot/postman-rest-breaking-news-call.jpg)
 
 1. Junit Coverage Snapshot
 
-![Testing Rest Service Methods](https://github.com/nescafe2018/intrvw_sq/tree/master/images_screenshot/rest-service-test-case.jpg)
+![Testing Rest Service Methods](https://github.com/nescafe2018/intrvw_sq/blob/master/images_screenshot/rest-service-test-case.jpg)
 
-![Testing Repository Methods](https://github.com/nescafe2018/intrvw_sq/tree/master/images_screenshot/repository-test-case.jpg)
+![Testing Repository Methods](https://github.com/nescafe2018/intrvw_sq/blob/master/images_screenshot/repository-test-case.jpg)
 
 ## License
 * THE CODE DOES NOT HAVE ANY COPYRIGHT WHATSOEVER. 
